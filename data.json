@@ -1,0 +1,25 @@
+{
+  "name": "Manish Singh",
+  "avatar": "https://pbs.twimg.com/profile_images/845227628642648064/KpHFCCkC_400x400.jpg",
+  "links": [
+    {
+      "title": "Personal Website",
+      "href": "https://s-ma.sh",
+      "image": "https://pbs.twimg.com/profile_images/845227628642648064/KpHFCCkC_400x400.jpg"
+    },
+    {
+      "title": "GitHub",
+      "href": "https://github.com/manishsingh10895"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/S_mash011"
+    },
+    {
+      "title": "GitHub",
+      "href": "https://github.com/manishsingh10895"
+    }
+  ]
+}
